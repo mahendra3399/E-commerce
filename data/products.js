@@ -15,20 +15,6 @@ export const products = [
     ]
   },
   {
-    id: "15b6fc6f-327a-4ec4-896f-486349e85ghy",
-    image: "images/products/dumbells.webp",
-    name: "Neoprene Dumbbells, Set Of 2, (10 Kgs Each ), Black",
-    rating: {
-      stars: 4.5,
-      count: 1279
-    },
-    priceCents: 2560,
-    keywords: [
-      "gym",
-      "dumbbells"
-    ]
-  },
-  {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
     image: "images/products/intermediate-composite-basketball.jpg",
     name: "Intermediate Size Basketball",
